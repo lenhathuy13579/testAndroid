@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/follow"
+        android:title="Theo dõi"/>
+    <item
+        android:id="@+id/for_you"
+        android:title="Cho bạn"/>
+    <item
+        android:id="@+id/football"
+        android:title="Bóng đá"/>
+    <item
+        android:id="@+id/technology"
+        android:title="Công nghệ"/>
+</menu>

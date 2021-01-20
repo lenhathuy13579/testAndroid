@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestViewModel</string>
+    <string name="text_day_release_item_news">24H • 1 tháng</string>
+</resources>
